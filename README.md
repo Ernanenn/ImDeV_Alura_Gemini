@@ -1,35 +1,35 @@
-## Árvores Medicinais da Caatinga: Seu Guia Verde Online! 
+## Medicinal Trees of the Caatinga: Your Online Green Guide!
 
-**Descubra os segredos das plantas medicinais da Caatinga!**
+**Discover the secrets of medicinal plants from the Caatinga!**
 
-Este projeto web te convida a explorar o rico universo das árvores medicinais presentes na Caatinga. Com uma interface intuitiva e dados precisos, você pode pesquisar por diversas espécies e descobrir suas propriedades terapêuticas, usos e muito mais.
+This web project invites you to explore the rich universe of medicinal trees found in the Caatinga. With an intuitive interface and accurate data, you can search for different species and discover their therapeutic properties, uses and much more.
 
-**Como funciona:**
+**How ​​it works:**
 
-1. **Pesquise:** Digite o nome da planta que deseja conhecer no campo de busca.
-2. **Explore:** Os resultados da pesquisa serão exibidos de forma clara e organizada, com informações sobre a planta, suas propriedades medicinais e links para fontes confiáveis.
-3. **Aprenda:** Descubra as maravilhas da natureza e como as plantas podem contribuir para a sua saúde e bem-estar.
+1. **Search:** Type the name of the plant you want to learn about in the search field.
+2. **Explore:** The search results will be displayed in a clear and organized way, with information about the plant, its medicinal properties and links to reliable sources.
+3. **Learn:** Discover the wonders of nature and how plants can contribute to your health and well-being.
 
-**Tecnologias utilizadas:**
+**Technologies used:**
 
-* **HTML:** Estrutura da página web.
-* **CSS:** Estilização da página.
-* **JavaScript:** Lógica de pesquisa e interação com o usuário.
+* **HTML:** Web page structure.
+* **CSS:** Page styling.
+* **JavaScript:** Search logic and user interaction.
 
-**Contribuições:**
+**Contributions:**
 
-Sinta-se à vontade para contribuir com este projeto! Se você é um botânico, desenvolvedor ou entusiasta de plantas medicinais, suas ideias e sugestões são bem-vindas.
+Feel free to contribute to this project! If you are a botanist, developer or medicinal plant enthusiast, your ideas and suggestions are welcome.
 
-**Como contribuir:**
+**How ​​to contribute:**
 
-1. **Fork** este repositório.
-2. **Clone** o repositório para sua máquina local.
-3. **Faça as suas alterações**.
-4. **Crie um pull request**.
+1. **Fork** this repository.
+2. **Clone** the repository to your local machine.
+3. **Make your changes**.
+4. **Create a pull request**.
 
-**Aviso:** As informações fornecidas neste site têm caráter informativo e não substituem a consulta a um profissional de saúde.
+**Disclaimer:** The information provided on this site is for informational purposes only and does not replace consultation with a health professional.
 
-**Vamos juntos preservar e valorizar a rica biodiversidade da Caatinga!** 
+**Let's work together to preserve and value the rich biodiversity of the Caatinga!**
 
 **Ernane Nunes**
 **ernanenn@gmail.com**
